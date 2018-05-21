@@ -24,7 +24,7 @@
            text-align: center;
            background: #34495e;
            padding: 60px;
-
+           color:white;
          }
 
 .aboutUS h1{
@@ -42,13 +42,11 @@
            height: 3px;
            background: #3498db;
            margin-bottom: 40px;
-
         }
 
 .ps {
            
            margin-bottom: 50px;
-
         }
 
 .ps a{
@@ -108,6 +106,7 @@
      margin-bottom: 20px;
      text-align: center;
      font-size: 22px;
+     padding-top:17px;
      }
 
 
